@@ -1,15 +1,53 @@
-![1722537825019](https://github.com/user-attachments/assets/a0fd5597-93ad-4b5c-afb8-ca75f3b6afed)
-
-- 👋 Hi, I’m @vidyaa01  
-- 👀 I’m interested in Web development , Databases.
-- 🌱 I’m currently learning Web dev
-- 📫 How to reach me vidyajaggi05@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love experiencing everything that comes my way!
-
-<!---
-vidyaa01/vidyaa01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/a77bee6a-6d00-49ae-9cea-5c9243a40a3b" />
 
 
+
+## 👋 Hi, I’m Vidya Jaggi (@vidyaa01)
+
+🎓 **B.Tech student in Computer Science and Business Systems**  
+📊 Interested in **Data Analysis and Data Science**, with hands-on experience in Python-based analytics
+
+---
+
+### 👀 Interests
+- Data Analysis & Visualization  
+- Data Science & Machine Learning (foundational)  
+- AI-powered applications  
+- Databases and SQL-based systems  
+
+---
+
+### 🌱 Currently Learning
+- **Microsoft Excel for Data Analysis** (data cleaning, formulas, pivot tables)
+- Exploratory Data Analysis (EDA) using Python
+- Machine learning fundamentals (classification, feature analysis)
+- SQL optimization and database integration
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C/C++, SQL, JavaScript  
+- **Data Tools:** Excel, pandas, NumPy, Matplotlib  
+- **Tools:** Git, GitHub, VS Code, Streamlit, WSL  
+
+---
+
+### 🚀 What I’m Working On
+- Data analysis projects using **Excel and Python**
+- Building interactive data apps with **Streamlit**
+- Hackathon projects focused on analytics and AI  
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: **vidyajaggi05@gmail.com**
+
+---
+
+### 😄 Pronouns
+She / Her
+
+---
+
+### ⚡ Fun Fact
+I enjoy learning by building and exploring new problem spaces—every project helps me grow!
