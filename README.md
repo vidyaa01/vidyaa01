@@ -1,53 +1,35 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/a77bee6a-6d00-49ae-9cea-5c9243a40a3b" />
+<img width="1400" height="350" alt="Vidya Jaggi banner" src="https://github.com/user-attachments/assets/a77bee6a-6d00-49ae-9cea-5c9243a40a3b" />
 
+# Hi, I'm Vidya Jaggi 👋
 
+**B.Tech student (Computer Science and Business Systems) | Aspiring Software Developer**
+I build web apps and data-driven tools with Python and JavaScript. Looking for **software development internships**.
 
-## 👋 Hi, I’m Vidya Jaggi (@vidyaa01)
-
-🎓 **B.Tech student in Computer Science and Business Systems**  
-📊 Interested in **Data Analysis and Data Science**, with hands-on experience in Python-based analytics
-
----
-
-### 👀 Interests
-- Data Analysis & Visualization  
-- Data Science & Machine Learning (foundational)  
-- AI-powered applications  
-- Databases and SQL-based systems  
+[![Email](https://img.shields.io/badge/Email-vidyajaggi05@gmail.com-red?logo=gmail&logoColor=white)](mailto:vidyajaggi05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidya-jaggi)
 
 ---
 
-### 🌱 Currently Learning
-- **Microsoft Excel for Data Analysis** (data cleaning, formulas, pivot tables)
-- Exploratory Data Analysis (EDA) using Python
-- Machine learning fundamentals (classification, feature analysis)
-- SQL optimization and database integration
+## 🚀 Projects
+
+**🎓 [EduPath](https://github.com/vidyaa01/edupath)** · [Live demo](https://edupath-phi.vercel.app)
+A learning-plan app that finds a user's skill gaps and generates a 4-week plan with the Gemini API. I designed the architecture: static frontend + Vercel serverless function that keeps the API key server-side, with retry logic and a fallback plan. *JavaScript, Vercel, Gemini API*
+
+**📉 [Delinquency Predictor](https://github.com/vidyaa01/Deliquency-predictor-forage)**
+Forage job simulation: cleaned a 500-customer credit dataset, engineered payment-history features, and trained a logistic regression model. *Python, pandas, scikit-learn*
+
+<!-- TODO: add network_m0 once the link is confirmed -->
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, C/C++, SQL, JavaScript  
-- **Data Tools:** Excel, pandas, NumPy, Matplotlib  
-- **Tools:** Git, GitHub, VS Code, Streamlit, WSL  
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, C/C++, SQL
+**Tools:** Git, GitHub, VS Code, Streamlit, Vercel, WSL
+**Data:** pandas, NumPy, Matplotlib, Excel
+
+## 🌱 Currently
+Sharpening my development skills by building and deploying projects end to end.
 
 ---
 
-### 🚀 What I’m Working On
-- Data analysis projects using **Excel and Python**
-- Building interactive data apps with **Streamlit**
-- Hackathon projects focused on analytics and AI  
-
----
-
-### 📫 How to Reach Me
-- 📧 Email: **vidyajaggi05@gmail.com**
-
----
-
-### 😄 Pronouns
-She / Her
-
----
-
-### ⚡ Fun Fact
-I enjoy learning by building and exploring new problem spaces—every project helps me grow!
+📧 vidyajaggi05@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · *She / Her*
